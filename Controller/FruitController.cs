@@ -53,7 +53,7 @@ namespace FruitApi.Controllers {
 
         [HttpDelete("{id}")]
         public IActionResult Delete(int id) {
-            var fruit = _context.Fruits.FirstOrDefault(f => f.Id = id);
+            var fruit = _context.Fruits.FirstOrDefault(f => f.Id == id);
             if (fruit == null)
                 return NotFound();
 

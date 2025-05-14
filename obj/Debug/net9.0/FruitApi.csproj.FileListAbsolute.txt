@@ -140,3 +140,4 @@ C:\Users\Administrator\Documents\exam_ipi\FruitApi\bin\Debug\net9.0\zh-Hant\Micr
 C:\Users\Administrator\Documents\exam_ipi\FruitApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Administrator\Documents\exam_ipi\FruitApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Administrator\Documents\exam_ipi\FruitApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Documents\exam_ipi\FruitApi\obj\Debug\net9.0\FruitApi.sourcelink.json
